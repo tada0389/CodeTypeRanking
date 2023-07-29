@@ -1,4 +1,5 @@
 # CodeTypeRanking
+<img src="https://github.com/tada0389/CodeTypeRanking/assets/45421418/cf7b2148-fe7c-4ad2-8267-47355269a38c" width = 800px>
 
 ## フレームワーク
 WPF .NET Framework 4.7.2
